@@ -17,5 +17,6 @@ public class Main {
         char Tegn = '&';          //2 bytes kun ét enkelt bogstav, tegn eller tal
         boolean Sandt = true;    //1 bytes sandt eller falsk
 
+
     }
 }
